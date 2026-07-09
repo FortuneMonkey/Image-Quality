@@ -1,0 +1,12 @@
+this is my company data as attached:
+
+age of plantation: P6
+species: Eucy
+
+the objectives of this project is to do analysis to find out why some compartment are low, medium, and high productivity and also to find out why some compartment have higher height compared to others.
+
+from this dataset, we have so many parameters from pest control (Xantho, helopeltis, and leafroller). i want you to perform what is the best to deal with this dataset, what is the correct way.
+
+please do your deep analysis to this dataset step by step properly in .ipynb
+
+
